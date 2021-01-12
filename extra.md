@@ -28,10 +28,10 @@ Contains a set of static utility functions.
 <br>
 
 ### License
-Copyright (C) 2020  devpelux (Salvatore Peluso)  
+Copyright (C) 2020-2021 devpelux (Salvatore Peluso)  
 Licensed under MIT license.   
 
-[![mit](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/64px-MIT_logo.svg.png "Licensed under MIT license")](https://github.com/devpelux/fullcontrols/blob/master/LICENSE)
+[![mit](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/64px-MIT_logo.svg.png "Licensed under MIT license")](https://github.com/devpelux/fullcontrols/blob/main/LICENSE)
 
 
 
